@@ -1,27 +1,24 @@
-# Help Center API Assignment
+Running the Project
+Backend: The backend server will be running at http://localhost:8000.
+Frontend: The frontend server will be running at http://localhost:3000.
 
-## Instructions
+cd frontend - npm start
+cd backend - npm run dev
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/iAmritMalviya/fullstack-assignment
-   cd fullstack-assignment
-   ```
+Technologies Used
+Frontend:
 
-2. **Frontend:**
-   - Create a React app in the `frontend` folder.
-   - Follow the instructions in `frontend.md` to complete the frontend.
+React
+Bootstrap
+React Router DOM
+Axios
 
-3. **Backend:**
-   - Create a Node.js app in the `backend` folder.
-   - Follow the `backend.md` instructions to complete the backend.
+Backend:
 
-4. **Push Your Work:**
-   - Push both the frontend and backend apps to the same repository.
-   - Make sure the repository is public.
-
-5. **Submit Your Work:**
-   - Paste the GitHub repository link in the Google form you received after pushing your code.
-
----
+Node.js
+Express
+MongoDB
+Mongoose
+Nodemon
+http-status
 

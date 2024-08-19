@@ -1,0 +1,22 @@
+.card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    width: 250px;
+    background: #f9f9f9;
+    column-gap: normal;
+  }
+  
+  .card h3 {
+    margin-top: 0;
+  }
+  
+  .card a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .card a:hover {
+    text-decoration: underline;
+  }
+  
